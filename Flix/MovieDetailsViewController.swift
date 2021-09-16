@@ -28,7 +28,7 @@ class MovieDetailsViewController: UIViewController {
         synopsisLabel.sizeToFit()
         // Do any additional setup after loading the view.
         
-        print(movie["title"])
+        
         
         titleLabel.text = movie["title"] as? String
         
