@@ -44,4 +44,7 @@ flix
 ### Notes
 Describe any challenges encountered while building the app.
 
+![ezgif com-resize](https://user-images.githubusercontent.com/56800519/133533087-c667c068-13ba-417f-ab85-5f5e529ccaa0.gif)
+
+
 
